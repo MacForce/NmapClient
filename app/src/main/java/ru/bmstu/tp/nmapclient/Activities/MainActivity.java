@@ -9,6 +9,7 @@ import android.view.MotionEvent;
 import android.view.View;
 
 import ru.bmstu.tp.nmapclient.Activities.util.SystemUiHider;
+import ru.bmstu.tp.nmapclient.R;
 
 
 /**
